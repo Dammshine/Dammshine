@@ -1,7 +1,7 @@
 <img width="100%" height="auto" src="out.jpeg" height="175px"/>
 
 <p align="center">
-<a href="https://leetcode.com/Dammshine/" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@maartengrootendorst" alt="maartengrootendorst"/></a>
+<a href="https://leetcode.com/Dammshine/" target="blank"><img align="center" src="https://img.shields.io/badge/-leetcode-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@maartengrootendorst" alt="maartengrootendorst"/></a>
 
 </p>
 
